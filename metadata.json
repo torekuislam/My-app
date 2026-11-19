@@ -1,0 +1,6 @@
+{
+  "name": "SessionDeck",
+  "description": "Multi-profile desktop browser for managing 100+ isolated Facebook accounts with folders, bulk creation, cookie import, and local JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
